@@ -1,0 +1,2 @@
+JWT_SECRET=‘amani123zxc’
+LOG_LEVEL=DEBUG
